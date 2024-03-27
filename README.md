@@ -21,8 +21,8 @@
 const Umidjon = {
   fullName: Umidjon Yoqubov,
   nationality: Uzbek,
-  Languajes: [ English, Uzbek ],
-  hobbies: [ Programing, Sports, Cooking, Reading, Thinking ],
+  languages: [ English, Uzbek ],
+  hobbies: [ Programing, Sport, Cooking, Reading, Thinking ],
 };
 ```
 
