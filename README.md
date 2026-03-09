@@ -1,47 +1,81 @@
-
-<h2 align="center">
-        <samp>&gt; Hello world, I'm 👋
-                <b><a target="_blank" href="http://linkedin.com/in/umidjon-yoqubov-b06122228/">Umidjon Yoqubov</a></b>
-        </samp>
-</h2>
-
-<br>
+<h1 align="center">Hi 👋, I'm Umidjon Yoqubov</h1>
+<h3 align="center">Mobile Developer | Flutter Specialist</h3>
 
 <p align="center">
-        <samp>
-            「 Student at TUIT FB and a Flutter Developer with industry experience in building cross platform mobile applications. I specialize in Flutter and have professional experience in building mobile apps. 」
-        </samp>
+Building scalable cross-platform mobile applications with Flutter and Dart.
 </p>
 
-<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/umidjon-yoqubov/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/Umidjon-18">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25" /> A little more About me </h3>
+---
 
-```js
-const Umidjon = {
-  fullName: Umidjon Yoqubov,
-  nationality: Uzbek,
-  languages: [ English, Russian, Uzbek ],
-  hobbies: [ Programing, Sport, Cooking, Reading, Thinking ],
-};
-```
+## 👨‍💻 About Me
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25"/>  Skills</a></h3>
+- 📱 Flutter developer with **4+ years of experience**
+- 🚀 Experienced in building **cross-platform mobile applications**
+- 🔥 Focused on **clean architecture and scalable mobile solutions**
+- 🧠 Passionate about **learning new technologies and improving engineering skills**
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+## 🧠 Tech Stack
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+### Mobile Development
 
-### Currenly learning
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+### Backend / Services
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Swift  
+- Native iOS development  
+- Advanced mobile architecture  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Umidjon-18&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umidjon-18&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umidjon-18&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌍 Languages
+
+- Uzbek  
+- English  
+- Russian  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building products that solve real-world problems and continuously improving my engineering skills.
